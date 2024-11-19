@@ -1,2 +1,2 @@
-# DPS5005_library
+# hDpsModuleLib
 Library for DPS5005 power module
